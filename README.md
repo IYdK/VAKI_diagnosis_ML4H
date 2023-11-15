@@ -1,6 +1,6 @@
 # VAKI diagnosis - ML4H
 
-This repository contains the code for the paper entitled:
+This repository contains code for the analyses in the paper entitled:
 
 "Causal prediction models for medication safety monitoring: The diagnosis of vancomycin-induced acute kidney injury"
 
