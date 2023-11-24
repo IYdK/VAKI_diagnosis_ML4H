@@ -9,7 +9,7 @@ accepted as a findings paper at the Machine Learning For Health (ML4H) 2023 symp
 ```
 @misc{yasrebi2023causal,
       title={Causal prediction models for medication safety monitoring: The diagnosis of vancomycin-induced acute kidney injury}, 
-      author={Yasrebi-de Kom, Izak and Joanna Klopotowska and Dave Dongelmans and Nicolette De Keizer and Kitty Jager and Ameen Abu-Hanna and Giovanni Cinà},
+      author={Izak {Yasrebi-de Kom} and Joanna Klopotowska and Dave Dongelmans and Nicolette De Keizer and Kitty Jager and Ameen Abu-Hanna and Giovanni Cinà},
       year={2023},
       eprint={2311.09137},
       archivePrefix={arXiv},
