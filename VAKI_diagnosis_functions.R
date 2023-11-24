@@ -90,7 +90,6 @@ cluster_bootstrap = function(train, R, cluster, statistics, test, test_CA, varia
 
 #### function for calibration ####
 
-#calibrate = function(predicted_train, label_train, predicted_calibration, label_calibration, predicted_test, label_test){
 calibration = function(predicted_train, label_train, predicted_test, label_test, seed, file, subset = NA, bootstrap = F, method = "GUESS"){
   
   library(stats)
